@@ -1,5 +1,7 @@
 
 
+
+
 function slideup()
 {
     $("#cartshow").slideUp();
@@ -13,139 +15,8 @@ function slidedown(){
     $("#cartshow").slideDown();
 
 }
-    // orange 
-function orangeshow(){
-    document.getElementById("cartshow").style.visibility="visible";
-    $("#cartshow").slideDown();
-    document.getElementById("orashow").style.visibility="visible";
-    alert("added in cart");
     
-}
 
-function orangeremove(){
-    document.getElementById("orashow").style.visibility="hidden";
-    alert("removed from cart");
-}
-        // lime
-function limeshow(){
-    document.getElementById("cartshow").style.visibility="visible";
-    $("#cartshow").slideDown();
-    document.getElementById("limeshow").style.visibility="visible";
-    alert("added in cart");
-}
-
-function limeremove(){
-    document.getElementById("limeshow").style.visibility="hidden";
-    alert("removed from cart");
-}
-
-        // watermelon
-
-function watermelonshow()
-{
-    document.getElementById("cartshow").style.visibility="visible";
-    $("#cartshow").slideDown();
-    document.getElementById("watermelonshow").style.visibility="visible";
-    alert("added in cart");
-}
-        
-function watermelonremove()
-{
-    document.getElementById("watermelonshow").style.visibility="hidden";
-    alert("removed from cart");
-}
-
-        // strawberry
-function strawberryshow()
-{
-    document.getElementById("cartshow").style.visibility="visible";
-    $("#cartshow").slideDown();
-    document.getElementById("strawberryshow").style.visibility="visible";
-    alert("added in cart");
-}
-
-function strawberryremove()
-{
-    document.getElementById("strawberryshow").style.visibility="hidden";
-    alert("removed from cart");
-}
-
-        // Pomagranate
-
- function Pomagranateshow()
-{
-document.getElementById("cartshow").style.visibility="visible";
-$("#cartshow").slideDown();
-document.getElementById("Pomagranatesshow").style.visibility="visible";
-alert("added in cart");
-}
-
-function Pomagranateremove()
-{
-document.getElementById("Pomagranatesshow").style.visibility="hidden";
-alert("removed from cart");
-}
-
-        // broccoli
-function broccolishow()
-{
-document.getElementById("cartshow").style.visibility="visible";
-$("#cartshow").slideDown();
-document.getElementById("broccolisshow").style.visibility="visible";
-alert("added in cart");
-}
-
-function broccoliremove()
-{
-document.getElementById("broccolisshow").style.visibility="hidden";
-alert("removed from cart");
-}
-
-            // spinach
-
-function sipachshow()
-{
-document.getElementById("cartshow").style.visibility="visible";
-$("#cartshow").slideDown();
-document.getElementById("spinachcsshow").style.visibility="visible";
-alert("added in cart");
-}
-            
-function spinachremove()
-{
-document.getElementById("spinachcsshow").style.visibility="hidden";
-alert("removed from cart");
-}
-
-    // lettuce
-function lettuceshow()
-{
-document.getElementById("cartshow").style.visibility="visible";
-$("#cartshow").slideDown();
-document.getElementById("lettucesshow").style.visibility="visible";
-alert("added in cart");
-}
-            
-function lettuceremove()
-{
-document.getElementById("lettucesshow").style.visibility="hidden";
-alert("removed from cart");
-}
-
-    // redonionshow
-function onionshow()
-{
-document.getElementById("cartshow").style.visibility="visible";
-$("#cartshow").slideDown();
-document.getElementById("redonionshow").style.visibility="visible";
-alert("added in cart");
-}
-            
-function onionremove()
-{
-document.getElementById("redonionshow").style.visibility="hidden";
-alert("removed from cart");
-}
 
     // Search
 function myFunction() {
